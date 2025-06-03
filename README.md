@@ -26,22 +26,6 @@ I thrive in environments that value **clean code**, **DDD/Hexagonal architecture
 
 ---
 
-### 💼 Current Role
-
-**Senior Backend Engineer** @ *Rindus* (Dec 2023 – Present)  
-Working on the **C&A App team**, building APIs that scale to 10M+ daily requests and driving architectural innovation via server-driven UI, vertical slicing, and trunk-based development.
-
----
-
-### 📈 Previous Highlights
-
-- Architected microservices for **100K+ daily users** at *Worldcoo*
-- Led frontend features with **Vue 3 + Pinia** at *Meetoptics*
-- Integrated with POS providers like **Adyen**, **Banc Sabadell**, and **CaixaBank**
-- Mentored junior devs into **mid-level contributors**
-
----
-
 ### 📫 Let's Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jordidev/) or check out my projects right here on [GitHub](https://github.com/jbt95)!
